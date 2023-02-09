@@ -1,0 +1,1 @@
+Walkthrough some shell permissions
