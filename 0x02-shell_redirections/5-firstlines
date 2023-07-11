@@ -1,0 +1,2 @@
+#!/bin/bah
+head - n 10 /etc/passwd
